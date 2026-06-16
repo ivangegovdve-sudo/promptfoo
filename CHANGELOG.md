@@ -6,13 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.121.18](https://github.com/promptfoo/promptfoo/compare/0.121.17...0.121.18) (2026-06-16)
 
-
 ### Bug Fixes
 
-* **code-scan:** run GitHub Action on Node 24 runtime ([#9772](https://github.com/promptfoo/promptfoo/issues/9772)) ([c25974e](https://github.com/promptfoo/promptfoo/commit/c25974e8e74a5ba923c0318cb6576e2b4dfc9ad6))
-* **deps:** require hono v4.12.25 ([#9777](https://github.com/promptfoo/promptfoo/issues/9777)) ([c5b397a](https://github.com/promptfoo/promptfoo/commit/c5b397aa0fb3097d7ef8f3aa0293f15296c4162f))
-* **deps:** restore LangChain examples ([#9778](https://github.com/promptfoo/promptfoo/issues/9778)) ([fb16af0](https://github.com/promptfoo/promptfoo/commit/fb16af0bfb2f14a3741871cdd3203f8058e39965))
-* **deps:** update anthropic packages to v0.102.0 ([#9776](https://github.com/promptfoo/promptfoo/issues/9776)) ([3e18ecb](https://github.com/promptfoo/promptfoo/commit/3e18ecb9dfafe49490c79df64d7e53f5e2a8ca0b))
+- **code-scan:** run GitHub Action on Node 24 runtime ([#9772](https://github.com/promptfoo/promptfoo/issues/9772)) ([c25974e](https://github.com/promptfoo/promptfoo/commit/c25974e8e74a5ba923c0318cb6576e2b4dfc9ad6))
+- **deps:** require hono v4.12.25 ([#9777](https://github.com/promptfoo/promptfoo/issues/9777)) ([c5b397a](https://github.com/promptfoo/promptfoo/commit/c5b397aa0fb3097d7ef8f3aa0293f15296c4162f))
+- **deps:** restore LangChain examples ([#9778](https://github.com/promptfoo/promptfoo/issues/9778)) ([fb16af0](https://github.com/promptfoo/promptfoo/commit/fb16af0bfb2f14a3741871cdd3203f8058e39965))
+- **deps:** update anthropic packages to v0.102.0 ([#9776](https://github.com/promptfoo/promptfoo/issues/9776)) ([3e18ecb](https://github.com/promptfoo/promptfoo/commit/3e18ecb9dfafe49490c79df64d7e53f5e2a8ca0b))
 
 ## [0.121.17](https://github.com/promptfoo/promptfoo/compare/0.121.16...0.121.17) (2026-06-16)
 
